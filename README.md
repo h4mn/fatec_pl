@@ -25,6 +25,6 @@
 
 - Aula: Exercícios PL.1 (Programação Linear com Python). Python para Economistas. Youtube, 10 de outubro de 2021. Disponível em: https://www.youtube.com/watch?v=LirwExXQk6I. Acesso em 11 de março de 2023.
 
-- RODRIGUES, Ramon. Implementando o algoritmo Simplex (P.O) com python. Demanda Nerd. Youtube, 5 de dezembro de 2020. Disponível em: https://www.youtube.com/watch?v=Dh-uWR5VPTU. Acesso em 11 de março de 2023.
+- [RODRIGUES, Ramon](https://github.com/Ramon5/simplex). Implementando o algoritmo Simplex (P.O) com python. Demanda Nerd. Youtube, 5 de dezembro de 2020. Disponível em: https://www.youtube.com/watch?v=Dh-uWR5VPTU. Acesso em 11 de março de 2023.
 
 - JENN, Jie. Getting Started With OpenAI GPT (GPT 3 Model) API In Python | Tutorial For Beginners. Jie Jenn. Youtube, 25 de janeiro de 2023. Disponível em: https://www.youtube.com/watch?v=RK6XJtFoHV4. Acesso em 11 de março de 2023.
