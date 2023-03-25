@@ -5,6 +5,7 @@
 
 ### Definição da Equipe
 
+- Augusto Lopes
 - Hadston A. M. Nunes
 
 ### Definição das Ferramentas Utilizadas

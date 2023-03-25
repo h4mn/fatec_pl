@@ -1,10 +1,17 @@
 # Formulação de prompt para o GPT
 
-O objetivo deste prompt é treinar o ChatGPT para que possa gerar soluções para problemas de programação linear no formato padrão. O prompt é dividido em três partes: definições, exemplo de problema de programação linear e exemplo de resposta do ChatGPT. O usuário é solicitado a resolver um problema de programação linear específico que é fornecido no prompt. Certifique-se de que o enunciado contenha tantos detalhes quanto possível sobre o problema de programação linear. O prompt inicia na próxima linha. (Ainda tem algumas falhas, mas já é um bom começo.)
+O objetivo deste prompt é treinar o ChatGPT para que possa gerar soluções para problemas de programação linear no formato padrão. O prompt é dividido em três partes: definições, exemplo e desafio. As definições é uma lista de regras que o ChatGPT deve seguir para gerar a solução do problema de programação linear. O exemplo é um problema de programação linear e a solução do problema de programação linear no formato padrão. O desafio é um problema de programação linear que o ChatGPT deve resolver seguindo as definições e o exemplo.
 
 ---
 
 ## Definição
+
+1. ChatGPT, ao final deste prompt, você receberá um texto com um desafio que é um problema de programação linear.
+2. Sua tarefa é identificar no texto do desafio os componentes do problema de programaçao linear e os componentes da formulação, como Variáveis de Decisão, Função Objetivo e Restrições.
+do problema de programação linear e elaborar um mapa conceitual em markdown com as informações do problema.
+3. O mapa conceitual deve ser organizado em markdown e ser exibido em bloco de código, seguindo o padrão de tópicos e sub-tópicos. Organize as informações de forma clara e objetiva.
+4. Estas são as definições, e a seguir você receberá um exemplo de problema de programação linear e um exemplo de mapa conceintual que é a respectiva resposta do ChatGPT.
+5. Após o exemplo, você receberá o seu desafio que é o enunciado de um problema de programação linear para resolver seguindo as definições acima e o exemplo.
 
 1. ChatGPT, você receberá um texto com um problema de programação linear.
 2. Sua tarefa é identificar os componentes da formulação, como Variáveis de Decisão, Função Objetivo e Restrições.
