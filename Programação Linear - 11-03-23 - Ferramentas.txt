@@ -1,0 +1,9 @@
+Equipe 
+Thiago Campos da Silva
+Victor Hugo Faim
+
+Resumo
+Estamos pensando em ultilizar as linguagens C# WEB ou Java, a ferramente será Visual Studio e Apache NET Beans respectivamente.
+Ultilizaremos também os seguintes sites como referencia: 
+https://otimizacao.js.org/simplex.html
+http://www.phpsimplex.com/simplex/simplex.htm?l=pt
