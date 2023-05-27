@@ -4,8 +4,6 @@ import simplex
 class TestSimplex(unittest.TestCase):
 
     def inicializa(self):
-        print("Inicializando...")
-        print("----------------------------------------------------------------------")
         self.matrix = [
             [1, -20, -30, -10, 0, 0, 0, 0],
             [0, 1, 1, 1, 1, 0, 0, 400],
@@ -13,16 +11,6 @@ class TestSimplex(unittest.TestCase):
             [0, 3, 2, -1, 0, 0, 1, 300],
         ]
         self.simplex = simplex.Simplex(self.matrix)
-
-    @unittest.skipIf(True, "Teste desativado")
-    def test_get_colunas(self):
-        self.inicializa()
-        self.assertEqual(self.simplex.get_colunas(), 6)
-
-    @unittest.skipIf(True, "Teste desativado")
-    def test_get_linhas(self):
-        self.inicializa()
-        self.assertEqual(self.simplex.get_linhas(), 3)
 
     @unittest.skipIf(True, "Teste desativado")
     def test_mostra_solucao(self):
